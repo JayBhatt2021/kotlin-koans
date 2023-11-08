@@ -1,0 +1,27 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 69
+    placeholder_text: 'fun foo(name: String, number: Int, toUpperCase: Boolean)'
+    initial_state:
+      length: 56
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: MRwS31RmyW+ztCjOEv1WrKfkEfmnQfv14f0m0SLyqjATj5QfxykHrose7HHS6fot6HBTz5xBtoWsYj0wkJavsHgDFCv4EtwzYopXO9uov6M=
+  encrypted_text: MRwS31RmyW+ztCjOEv1WrKfkEfmnQfv14f0m0SLyqjDryd0wNEvuM/PkztFB0G0TZ0za1DXMfSfmO8j5WCwQsvsyp1fF2Ty51dQATCcEHFBX88K4QD4auGl+0bych0po0ePEgtwJHOTXhyJ1mEZjbkYRdX2yl4yM0o2UO0a7znxfzqBy+111iwTSfzIrkNw7ad0diIbQLnKEtd7NOd0sVb5YglRuTZr/+qaOkD3WmQbGjAVpDrgD4+y95KoEuYV1HmIg+7sWztPRpRrrK5NlOjfztkzIw2nVWMu/B2c/kR56trEvB+54ZbFAbsCzsB7A2yBaSo+gxGo1TFKQv8YAFuHG2vqq1IHqbz/8gMqPmCbN3NT0znq66eNykN6m4SnazHQwrHQsYVRfJ4YwvFbXPQ==
+  learner_created: false
+- name: test/tests.kt
+  visible: false
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nKf4miLa5dzLLS2XlTof0JGHJM59oG3LTMziX2u9P6j/1I0LDO9+DMkURjzrLzF60gNHa6q2nQY6LGWjIXx80ieelhgcT5LL/g3OnuoOCIkYIqfnI95JuXZ45wdEkMpjYzwHxqiTNoip2BTYoNDhk7axSvlyrTPCVfd2J6QK0lg/xoe0hdJMfDQh39Zah0RxP3dRl9hEa+Qp6ned9hcPIvLm2V8sm3wX+NZqwsEUh33XJXOyNe456v/UXngDGxwscLWwPz4n5AbKApdftsE2XfB+06dW72bP4gVo4jCNrFcTqTDo83YeCVKDkaSw4/9nIMywGyskwKvZ609QeBP1tEKKiS+Ue1qQQhoS39LyOHnL
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Introduction+/+Default+Arguments
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sat, 20 Aug 2022 21:28:39 UTC
+record: -1

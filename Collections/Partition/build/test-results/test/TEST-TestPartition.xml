@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestPartition" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-27T22:44:17" hostname="JBHATT-ZFG8" time="0.063">
+  <properties/>
+  <testcase name="testGetCustomersWhoHaveMoreUndeliveredOrdersThanDelivered" classname="TestPartition" time="0.063"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestExtensionFunctionLiterals" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-05T19:52:47" hostname="JBHATT-ZFG8" time="0.02">
+  <properties/>
+  <testcase name="testIsOddAndIsEven" classname="TestExtensionFunctionLiterals" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

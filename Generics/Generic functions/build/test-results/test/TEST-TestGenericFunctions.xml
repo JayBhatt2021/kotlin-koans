@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestGenericFunctions" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-05T20:59:19" hostname="JBHATT-ZFG8" time="0.041">
+  <properties/>
+  <testcase name="testPartitionLettersAndOtherSymbols" classname="TestGenericFunctions" time="0.026"/>
+  <testcase name="testPartitionWordsAndLines" classname="TestGenericFunctions" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

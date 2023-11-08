@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestLazyProperty" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-05T19:34:34" hostname="JBHATT-ZFG8" time="0.014">
+  <properties/>
+  <testcase name="testLazy" classname="TestLazyProperty" time="0.012"/>
+  <testcase name="initializedOnce" classname="TestLazyProperty" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

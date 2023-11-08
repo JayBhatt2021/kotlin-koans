@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestTheFunctionWith" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-05T20:16:47" hostname="JBHATT-ZFG8" time="0.01">
+  <properties/>
+  <testcase name="testCreateString" classname="TestTheFunctionWith" time="0.009"/>
+  <testcase name="testCreateMap" classname="TestTheFunctionWith" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

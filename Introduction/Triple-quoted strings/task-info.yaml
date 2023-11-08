@@ -1,0 +1,27 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 162
+    length: 16
+    placeholder_text: .trimIndent()
+    initial_state:
+      length: 13
+      offset: 162
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: dvM3EkWOD+M8hSdDYXjZmbZJ6slxLv+pA5C9zwH+ISo=
+  encrypted_text: GwcZZaXsH0clinwW0lpuM4Rbvdd9Q76Afd1NjJq5KKDe17OTYhGjAnUSpaD9rvV+UhfpIoZay/w2yYGRQMNHFLt0+0cAME9R8UUbIFi12rrjfM+XcxA5/gfI18AfbK//O0TcHIcwhcIfWF1p0ez1v0lN73iXg1yHTR5EarhA3uONoP33/aMvSoOe0ld0IOhrZRE0A8VKZ3/C7aKNORg3lw4zJFIFLyKvdSpAjiYC2ztbln2YVEvMYhr1zqX1L0dwlRrrf41KTWZEOmX8ji5/eYsmmz/AeX3ybuU15GdeXEI=
+  learner_created: false
+- name: test/Tests.kt
+  visible: false
+  encrypted_text: ITs8Nv8EH6QWJG5nufD7nCbrLPoZNTYAX8EbQHppKy+TR7uFhZF7JnSL5/nnFJttOoUbKzjzjKMy0T1IKOzzSDoOeK+zndv76BFBSLtHZcP/e3MqAcGDqQYN16YRpOVVJ8dn10F+Tvz5q8Lw5sDS9X3QqFvb39W31vRHgq6l1YwxrPx63VwtAUUVxVC1nv5Oh1MM3n95U19IiVs2YpkcU+eOMVBYmUitURKMAFSITT3kCkAE+yOgdw4qFIAWtQCu6VixTEig/PdYIcr7oQrQE8f5+Uur/5kExB/wYNqlvUEthpPprMxcvRl2L2KpLHfBzhuaWBlcpQpvUP2z09paSI+hZR00oSq+SEliDptVhFs5/UwrMdbHj567ieS+nrQMvxtH/rzc6vyXL3plrwJaP9i4cH/KQItoPX9dOU54E3wYlNJIW/bysHzF5c/O6qYU/RERHIcLd2JZ6sdJw815JDK7ZAK5qfz22J0HMZv3D0nsDWTwaKSy1/IE/gWDtJtp
+  learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Introduction+/+Triple-Quoted+Strings
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 01 Sep 2022 18:35:41 UTC
+record: -1

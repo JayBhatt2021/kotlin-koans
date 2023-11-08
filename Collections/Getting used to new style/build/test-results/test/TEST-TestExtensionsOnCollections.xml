@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestExtensionsOnCollections" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-10-04T22:46:55" hostname="JBHATT-ZFG8" time="0.042">
+  <properties/>
+  <testcase name="testSimpleCollection" classname="TestExtensionsOnCollections" time="0.039"/>
+  <testcase name="testCollectionWithEmptyStrings" classname="TestExtensionsOnCollections" time="0.001"/>
+  <testcase name="testCollectionWithTwoGroupsOfMaximalSize" classname="TestExtensionsOnCollections" time="0.0"/>
+  <testcase name="testCollectionOfOneElement" classname="TestExtensionsOnCollections" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
