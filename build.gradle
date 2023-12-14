@@ -1,5 +1,5 @@
 buildscript {
-    ext.kotlin_version = '1.5.10'
+    ext.kotlin_version = '1.6.10'
 
     repositories {
         mavenCentral()
@@ -36,7 +36,6 @@ subprojects {
         testImplementation group: 'junit', name: 'junit', version: '4.12'
     }
 
-    compileKotlin.destinationDir = compileJava.destinationDir
 
     compileKotlin {
         kotlinOptions.jvmTarget = "1.8"

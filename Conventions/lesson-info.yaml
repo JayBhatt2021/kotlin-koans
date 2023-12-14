@@ -1,6 +1,6 @@
 content:
-- Comparison
-- Ranges
-- For loop
-- Operators overloading
-- Invoke
+  - Comparison
+  - Ranges
+  - For loop
+  - Operators overloading
+  - Invoke

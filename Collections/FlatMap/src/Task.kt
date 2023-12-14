@@ -4,6 +4,6 @@ fun Customer.getOrderedProducts(): List<Product> =
 
 // Return all products that were ordered by at least one customer
 fun Shop.getOrderedProducts(): Set<Product> =
-    this.customers.flatMap { customer ->
-        customer.getOrderedProducts() // first function
+    this.customers.flatMap {
+        it.getOrderedProducts() // first function
     }.toSet()

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestStringAndMapBuilders" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-05T20:09:02" hostname="JBHATT-ZFG8" time="0.018">
+<testsuite name="TestStringAndMapBuilders" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-14T17:09:54" hostname="system76-pc" time="0.002">
   <properties/>
-  <testcase name="testBuildMap" classname="TestStringAndMapBuilders" time="0.018"/>
+  <testcase name="testBuildMap" classname="TestStringAndMapBuilders" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

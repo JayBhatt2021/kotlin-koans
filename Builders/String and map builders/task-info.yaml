@@ -1,27 +1,27 @@
 type: edu
 files:
-- name: src/Task.kt
-  visible: true
-  placeholders:
-  - offset: 26
-    length: 150
-    placeholder_text: /* TODO */
-    initial_state:
-      length: 10
-      offset: 26
-    initialized_from_dependency: false
-    selected: true
-    status: Solved
-    encrypted_possible_answer: hqAg774QUxkCIQsPstuMQA55z4XVASNwv50AHZqeBdotz5qZPJkTAPssQpPYCh7+4cv3qvd9bhxgcz3NLO6g3Jd7XP2/Lw4j5k0ylQ4QDJsTTqPVZElCh33dK+CvNyS+Lsvwa3o6NG0qXg60L5C0lFCUak3trY48QvJY3N79ITydceqyFB1xtBgAb9S63+FO
-  encrypted_text: NYgHoNruO3t7vIi6YFhoH54cJSowayhlYalrWHBzPk0O7qoy/qVS5eFW6baQXBeaUXviV8sDOj4HUDNcAliuAY+InQYcR6OU7S+FYc/Kf3WxkkR5Ymsp2K23FFW9X9M6WxyIrHnCchBD0stBCQFVITg8v3r2Ocbdvsvi++vxBVY/rTi5qlXng5UaoEMScbUdmq3PdC6eU+mwM2/4GqIJ0N7EZqUujspi/T297Eb8Bdv6nWeXkMQ3LHSxszta33TT
-  learner_created: false
-- name: test/tests.kt
-  visible: false
-  encrypted_text: ITs8Nv8EH6QWJG5nufD7nCbrLPoZNTYAX8EbQHppKy+TR7uFhZF7JnSL5/nnFJttkyEltD8hb4JuHqitjqPdzdABkf4C3ixUHsx9rAvyl6fXOuAlxgb/6eD7HuhlLGci4TLWHjvT85N2FLNTq/81xn8poeuc416VYxAaDyi9lIRCCd/N2tCu4e6blmOK8/iuwx3+B8UZq4XB6r9rtO+5GRPTVTpG/bvO+DUl/CA/iFHB99fjBHza+xwZEc5YzjEs4jfqSBMdW0ewnFirLfZhbD6+GN7euIakkWhfMtPpSR06SkEJwRZQXIXAGDezeDsAYZeyJICFRKHJRg9tC6H67GFKFHd/gNmIaWFU76HeUQ9nlXyUsLaQED5qvwxAxaupUf2mx05Drcfo21k0gY+iMvpGUBg64PAOECyb4odoH0j9nPLZdN8pKl8RCbMn3wgtCpRCdn/2uuhWmlN9PvYMMw==
-  learner_created: false
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 26
+        length: 151
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 26
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: hqAg774QUxkCIQsPstuMQA55z4XVASNwv50AHZqeBdotz5qZPJkTAPssQpPYCh7+4cv3qvd9bhxgcz3NLO6g3Jd7XP2/Lw4j5k0ylQ4QDJsTTqPVZElCh33dK+CvNyS+Lsvwa3o6NG0qXg60L5C0lFCUak3trY48QvJY3N79ITydceqyFB1xtBgAb9S63+FO
+    encrypted_text: NYgHoNruO3t7vIi6YFhoH54cJSowayhlYalrWHBzPk0O7qoy/qVS5eFW6baQXBeaUXviV8sDOj4HUDNcAliuAY+InQYcR6OU7S+FYc/Kf3WxkkR5Ymsp2K23FFW9X9M6WxyIrHnCchBD0stBCQFVITg8v3r2Ocbdvsvi++vxBVY/rTi5qlXng5UaoEMScbUdmq3PdC6eU+mwM2/4GqIJ0N7EZqUujspi/T297Eb8Bdv6nWeXkMQ3LHSxszta33TT
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nCbrLPoZNTYAX8EbQHppKy+TR7uFhZF7JnSL5/nnFJttkyEltD8hb4JuHqitjqPdzdABkf4C3ixUHsx9rAvyl6fXOuAlxgb/6eD7HuhlLGci4TLWHjvT85N2FLNTq/81xn8poeuc416VYxAaDyi9lIRCCd/N2tCu4e6blmOK8/iuwx3+B8UZq4XB6r9rtO+5GRPTVTpG/bvO+DUl/CA/iFHB99fjBHza+xwZEc5YzjEs4jfqSBMdW0ewnFirLfZhbD6+GN7euIakkWhfMtPpSR06SkEJwRZQXIXAGDezeDsAYZeyJICFRKHJRg9tC6H67GFKFHd/gNmIaWFU76HeUQ9nlXyUsLaQED5qvwxAxaupUf2mx05Drcfo21k0gY+iMvpGUBg64PAOECyb4odoH0j9nPLZdN8pKl8RCbMn3wgtCpRCdn/2uuhWmlN9PvYMMw==
+    learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Builders+/+String+and+Map+Builders
 status: Solved
 feedback:
   message: Congratulations!
-  time: Wed, 05 Oct 2022 20:09:02 UTC
+  time: "Thu, 14 Dec 2023 17:09:54 UTC"
 record: -1

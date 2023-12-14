@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestHtmlBuilders" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-05T20:31:42" hostname="JBHATT-ZFG8" time="0.039">
+<testsuite name="TestHtmlBuilders" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-14T17:51:45" hostname="system76-pc" time="0.016">
   <properties/>
-  <testcase name="productTableIsColored" classname="TestHtmlBuilders" time="0.038"/>
+  <testcase name="productTableIsColored" classname="TestHtmlBuilders" time="0.015"/>
   <testcase name="productTableIsFilled" classname="TestHtmlBuilders" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

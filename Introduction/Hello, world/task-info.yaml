@@ -1,28 +1,28 @@
 type: edu
-custom_name: Hello, world!
+custom_name: "Hello, world!"
 files:
-- name: src/Task.kt
-  visible: true
-  placeholders:
-  - offset: 22
-    length: 4
-    placeholder_text: TODO()
-    initial_state:
-      length: 6
-      offset: 22
-    initialized_from_dependency: false
-    selected: true
-    status: Solved
-    encrypted_possible_answer: iBBRH3yyNCy0qb5WuTm5bA==
-  encrypted_text: qOHZ02/7OUcQL++aiVVaf2FiKbkgiWdezAA8EWlwXnM=
-  learner_created: false
-- name: test/tests.kt
-  visible: false
-  encrypted_text: ITs8Nv8EH6QWJG5nufD7nCbrLPoZNTYAX8EbQHppKy+TR7uFhZF7JnSL5/nnFJttdNVbvgosnirhvrRgmzUQYG50Wl7iGNHdS9EyVrfoHZxbj1O5locNEu+5lroTNfFNqOO37TB24Sw4J+nG2VReZJiSJ/Mme3AJlUckiH8nkwR8qNQprtA3aEU8ab9e8gu1H+qyPfGuwRyybU8E70EjVJXbOuKDmPszYd1XDT6d/kw=
-  learner_created: false
-feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Introduction+/+Hello,+world!
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 22
+        length: 4
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 22
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: iBBRH3yyNCy0qb5WuTm5bA==
+    encrypted_text: qOHZ02/7OUcQL++aiVVaf2FiKbkgiWdezAA8EWlwXnM=
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nCbrLPoZNTYAX8EbQHppKy+TR7uFhZF7JnSL5/nnFJttdNVbvgosnirhvrRgmzUQYG50Wl7iGNHdS9EyVrfoHZxbj1O5locNEu+5lroTNfFNqOO37TB24Sw4J+nG2VReZJiSJ/Mme3AJlUckiH8nkwR8qNQprtA3aEU8ab9e8gu1H+qyPfGuwRyybU8E70EjVJXbOuKDmPszYd1XDT6d/kw=
+    learner_created: false
+feedback_link: "https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Introduction+/+Hello,+world!"
 status: Solved
 feedback:
   message: Congratulations!
-  time: Sat, 20 Aug 2022 21:17:06 UTC
+  time: "Tue, 21 Nov 2023 22:14:45 UTC"
 record: -1

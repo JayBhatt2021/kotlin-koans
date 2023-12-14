@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestMaxMin" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-01T23:47:46" hostname="JBHATT-ZFG8" time="0.041">
+<testsuite name="TestMaxMin" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-13T17:07:54" hostname="system76-pc" time="0.021">
   <properties/>
-  <testcase name="testTheMostExpensiveOrderedProduct" classname="TestMaxMin" time="0.04"/>
-  <testcase name="testCustomerWithMaximumNumberOfOrders" classname="TestMaxMin" time="0.001"/>
+  <testcase name="testTheMostExpensiveOrderedProduct" classname="TestMaxMin" time="0.021"/>
+  <testcase name="testCustomerWithMaximumNumberOfOrders" classname="TestMaxMin" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

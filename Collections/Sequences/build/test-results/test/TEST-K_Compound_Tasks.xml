@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="K_Compound_Tasks" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-04T22:35:06" hostname="JBHATT-ZFG8" time="0.047">
+<testsuite name="K_Compound_Tasks" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-13T19:45:46" hostname="system76-pc" time="0.02">
   <properties/>
-  <testcase name="testNumberOfTimesEachProductWasOrdered" classname="K_Compound_Tasks" time="0.045"/>
-  <testcase name="testMostExpensiveDeliveredProduct" classname="K_Compound_Tasks" time="0.002"/>
+  <testcase name="testNumberOfTimesEachProductWasOrdered" classname="K_Compound_Tasks" time="0.019"/>
+  <testcase name="testMostExpensiveDeliveredProduct" classname="K_Compound_Tasks" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

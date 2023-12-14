@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSmartCasts" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-09-20T22:56:39" hostname="JBHATT-ZFG8" time="0.015">
+<testsuite name="TestSmartCasts" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-11-21T22:35:02" hostname="system76-pc" time="0.002">
   <properties/>
-  <testcase name="testNum" classname="TestSmartCasts" time="0.009"/>
-  <testcase name="testSum" classname="TestSmartCasts" time="0.001"/>
+  <testcase name="testNum" classname="TestSmartCasts" time="0.002"/>
+  <testcase name="testSum" classname="TestSmartCasts" time="0.0"/>
   <testcase name="testRecursion" classname="TestSmartCasts" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

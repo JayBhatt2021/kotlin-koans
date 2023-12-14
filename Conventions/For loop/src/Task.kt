@@ -1,24 +1,22 @@
-class DateRange(val startDate: MyDate, val endDate: MyDate) : Iterable<MyDate> {
-    override fun iterator() =
-        object : Iterator<MyDate> {
-            var currentDate = startDate
+class DateRange(val start: MyDate, val end: MyDate) : Iterable<MyDate> {
+    override fun iterator(): Iterator<MyDate> {
+        return object : Iterator<MyDate> {
+            var currentDate = start
 
-            override fun hasNext() = currentDate <= endDate
+            override fun hasNext() = currentDate <= end
 
             override fun next(): MyDate {
-                if (!hasNext()) throw NoSuchElementException()
-
-                val nextDate = currentDate
-
-                // Actually moves currentDate to the next date
-                // (Prevents infinite loop)
-                currentDate = currentDate.followingDate()
-
-                // Since currentDate is a reference type, the previous
-                // statement actually changed the value of nextDate indirectly.
-                return nextDate
+                if (hasNext()) {
+                    val result = currentDate
+                    currentDate = result.followingDate()
+                    return result
+                } else {
+                    throw NoSuchElementException()
+                }
             }
+
         }
+    }
 }
 
 fun iterateOverDateRange(firstDate: MyDate, secondDate: MyDate, handler: (MyDate) -> Unit) {

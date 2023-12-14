@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HtmlDslTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-05T20:48:12" hostname="JBHATT-ZFG8" time="0.027">
+<testsuite name="HtmlDslTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-14T18:01:31" hostname="system76-pc" time="0.011">
   <properties/>
-  <testcase name="testSample" classname="HtmlDslTest" time="0.022"/>
-  <testcase name="testTable1" classname="HtmlDslTest" time="0.002"/>
-  <testcase name="testTable2" classname="HtmlDslTest" time="0.003"/>
+  <testcase name="testSample" classname="HtmlDslTest" time="0.01"/>
+  <testcase name="testTable1" classname="HtmlDslTest" time="0.0"/>
+  <testcase name="testTable2" classname="HtmlDslTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

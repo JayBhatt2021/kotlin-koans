@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestGroupBy" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-27T22:16:38" hostname="JBHATT-ZFG8" time="0.058">
+<testsuite name="TestGroupBy" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-02T03:41:26" hostname="system76-pc" time="0.025">
   <properties/>
-  <testcase name="testGroupCustomersByCity" classname="TestGroupBy" time="0.058"/>
+  <testcase name="testGroupCustomersByCity" classname="TestGroupBy" time="0.025"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

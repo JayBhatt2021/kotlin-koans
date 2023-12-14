@@ -1,37 +1,37 @@
 type: edu
 files:
-- name: src/Task.kt
-  visible: true
-  placeholders:
-  - offset: 30
-    length: 23
-    placeholder_text: TODO()
-    initial_state:
-      length: 6
-      offset: 30
-    initialized_from_dependency: false
-    selected: true
-    status: Solved
-    encrypted_possible_answer: +dWbxqweB4pF06I+SIpR4c+3CfhME/xImFTdEP8Qya8=
-  - offset: 96
-    length: 29
-    placeholder_text: TODO()
-    initial_state:
-      length: 6
-      offset: 79
-    initialized_from_dependency: false
-    selected: true
-    status: Solved
-    encrypted_possible_answer: fdjFBwAZnHLSezsWCZwZY5pP+YhOmrnoGV/Z527tPi8=
-  encrypted_text: /c98NcwfzAweMp3jVyZFpybaR5iP8SueTQT6aUYCGvfNuglSrBfg/Y78My9pbb2cGg+AuK1cKnKyejMAiFbjIb6sOrI7svOFbjPAFxGU7Gb0CS+56S1TdQDDBGSx1gSETll2rH7mhP204wlHp0Xpm8Li2PNCZPyypp1og6WsThXT0iT2O3s50zKdPeb83LsmNBLtsuy6sa4Esma8MzxNMQ==
-  learner_created: false
-- name: test/tests.kt
-  visible: false
-  encrypted_text: ITs8Nv8EH6QWJG5nufD7nKf4miLa5dzLLS2XlTof0JGHJM59oG3LTMziX2u9P6j/UdwWNUyuDB0fmTLhXTMRRNMprC1/Aa2QHI0Sc03gSy4ALg62T/P80f3qDeAf+SdLqlBuG5AsPxmyKrrYUbzP9CtYp7vfxuYTtKNWt0Lojmt/d5Wuv6ZW69KVBmQtZ2vhoL4YMgQv8GYxL0d9JXgSSQTxcX3BQjqNC44P/1MiCA+9HvSoOKgx+rINUx1O8HTduCX4r+gN89yb8y2As/K49FXVdjCJinj6XX40angmrW2g7EN8mnOWT4tmiEKpdhsxmFPOh3r740NXcqYj6ahPhoy7XiLc0HYtNc1fKoKPpKNSZ8M5m0KEbjgOKKEhlHFJW+hH9v0K9GkHiAU5qr7CFytLRaDDIhRrwAt82R5LyhwOPkBVKRu3D0bBj+sm//iNn5TkX7C0eptWXSgxldLzowTRLPl6CuboAYwmPHR1i1EJShgtPYYmxKWkBD6UL/Eodf3gE99XF7kqoxY+4CZSKLuu+akdGLIpVhn6Z0xZjQo=
-  learner_created: false
-feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Data+Classes+/+Extension+Functions
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 30
+        length: 23
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 30
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: +dWbxqweB4pF06I+SIpR4c+3CfhME/xImFTdEP8Qya8=
+      - offset: 96
+        length: 39
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 79
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: fdjFBwAZnHLSezsWCZwZY5pP+YhOmrnoGV/Z527tPi8=
+    encrypted_text: /c98NcwfzAweMp3jVyZFpybaR5iP8SueTQT6aUYCGvfNuglSrBfg/Y78My9pbb2cGg+AuK1cKnKyejMAiFbjIb6sOrI7svOFbjPAFxGU7Gb0CS+56S1TdQDDBGSx1gSETll2rH7mhP204wlHp0Xpm8Li2PNCZPyypp1og6WsThXT0iT2O3s50zKdPeb83LsmNBLtsuy6sa4Esma8MzxNMQ==
+    learner_created: false
+  - name: test/tests.kt
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nKf4miLa5dzLLS2XlTof0JGHJM59oG3LTMziX2u9P6j/UdwWNUyuDB0fmTLhXTMRRNMprC1/Aa2QHI0Sc03gSy4ALg62T/P80f3qDeAf+SdLqlBuG5AsPxmyKrrYUbzP9CtYp7vfxuYTtKNWt0Lojmt/d5Wuv6ZW69KVBmQtZ2vhoL4YMgQv8GYxL0d9JXgSSQTxcX3BQjqNC44P/1MiCA+9HvSoOKgx+rINUx1O8HTduCX4r+gN89yb8y2As/K49FXVdjCJinj6XX40angmrW0ewhSWzIaf5L30HcTidou3684b1zzrCvlWXyIGnbb/IuZDPCX4FG+KZ6KwuGHZtoN9aCEoeJCdXDXL68JMpTiQA869i9lbpSmjIDb/nJH2ndmL9JP7SDOhPcuppF6yQGgr8cLqIFwokbxXVCDo8howVp68Vw7YI4zoKRpYGZrQEnJvMb+/N8TcIXmS2jx6j2a+EmtT1Ddr1BOH51ZgZ7fIUYXM9yyUuOCltf51vUlAOqDIRfbapqm1pvKmKlopzguTgrA2I188WWriQAaeSMyLw4wSyyfn7uqELao4B+jD1vi2dR/eLTHrdt+IXG57gbBzdBSaPx5BFU3EwB8k+9CWP6JVSflNONf2S/qzMMQJipjgYFSxWvg9KtzeeS7/LSocOzMlxN5xOO3NYp3P3571fUVvOCn9/w6fuwWojyiHQo0NH4F48yriOZMKYwVe7eaRSHMh6smWj8JM+lAjd4eZSByEfn+PwGi+VLMhYidmxy2UWcwjCa3JZm2PBUR42u8=
+    learner_created: false
+feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Classes+/+Extension+Functions
 status: Solved
 feedback:
   message: Congratulations!
-  time: Sun, 25 Sep 2022 23:06:36 UTC
+  time: "Tue, 21 Nov 2023 22:43:54 UTC"
 record: -1

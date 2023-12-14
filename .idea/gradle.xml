@@ -5,7 +5,6 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -27,7 +26,7 @@
             <option value="$PROJECT_DIR$/Collections/Compound tasks" />
             <option value="$PROJECT_DIR$/Collections/Filter map" />
             <option value="$PROJECT_DIR$/Collections/FlatMap" />
-            <option value="$PROJECT_DIR$/Collections/Fold" />
+            <option value="$PROJECT_DIR$/Collections/Fold and reduce" />
             <option value="$PROJECT_DIR$/Collections/Getting used to new style" />
             <option value="$PROJECT_DIR$/Collections/GroupBy" />
             <option value="$PROJECT_DIR$/Collections/Introduction" />

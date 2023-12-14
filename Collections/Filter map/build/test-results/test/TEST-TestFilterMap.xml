@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestFilterMap" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-27T15:45:50" hostname="JBHATT-ZFG8" time="0.051">
+<testsuite name="TestFilterMap" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-02T03:21:10" hostname="system76-pc" time="0.023">
   <properties/>
-  <testcase name="testCitiesCustomersAreFrom" classname="TestFilterMap" time="0.049"/>
+  <testcase name="testCitiesCustomersAreFrom" classname="TestFilterMap" time="0.022"/>
   <testcase name="testCustomersFromCity" classname="TestFilterMap" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

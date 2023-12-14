@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestAllAnyAndOtherPredicates" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-09-27T20:52:18" hostname="JBHATT-ZFG8" time="0.037">
+<testsuite name="TestAllAnyAndOtherPredicates" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-02T03:28:03" hostname="system76-pc" time="0.024">
   <properties/>
-  <testcase name="testAnyCustomerFromCity" classname="TestAllAnyAndOtherPredicates" time="0.034"/>
+  <testcase name="testAnyCustomerFromCity" classname="TestAllAnyAndOtherPredicates" time="0.021"/>
   <testcase name="testAnyCustomerIsFromCity" classname="TestAllAnyAndOtherPredicates" time="0.001"/>
   <testcase name="testCountCustomersFromCity" classname="TestAllAnyAndOtherPredicates" time="0.001"/>
   <testcase name="testAllCustomersAreFromCity" classname="TestAllAnyAndOtherPredicates" time="0.001"/>

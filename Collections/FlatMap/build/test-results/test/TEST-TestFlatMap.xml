@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestFlatMap" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-09-27T23:15:34" hostname="JBHATT-ZFG8" time="0.036">
+<testsuite name="TestFlatMap" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-13T16:54:00" hostname="system76-pc" time="0.021">
   <properties/>
-  <testcase name="testGetOrderedProductsSet" classname="TestFlatMap" time="0.033"/>
-  <testcase name="testGetAllOrderedProducts" classname="TestFlatMap" time="0.003"/>
+  <testcase name="testGetOrderedProductsSet" classname="TestFlatMap" time="0.019"/>
+  <testcase name="testGetAllOrderedProducts" classname="TestFlatMap" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

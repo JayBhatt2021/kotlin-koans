@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestPartition" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-27T22:44:17" hostname="JBHATT-ZFG8" time="0.063">
+<testsuite name="TestPartition" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-13T16:38:31" hostname="system76-pc" time="0.022">
   <properties/>
-  <testcase name="testGetCustomersWhoHaveMoreUndeliveredOrdersThanDelivered" classname="TestPartition" time="0.063"/>
+  <testcase name="testGetCustomersWhoHaveMoreUndeliveredOrdersThanDelivered" classname="TestPartition" time="0.022"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

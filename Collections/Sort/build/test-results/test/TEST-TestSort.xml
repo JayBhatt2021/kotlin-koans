@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSort" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-27T15:18:24" hostname="JBHATT-ZFG8" time="0.051">
+<testsuite name="TestSort" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-02T03:18:02" hostname="system76-pc" time="0.025">
   <properties/>
-  <testcase name="testGetCustomersSortedByNumberOfOrders" classname="TestSort" time="0.051"/>
+  <testcase name="testGetCustomersSortedByNumberOfOrders" classname="TestSort" time="0.025"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

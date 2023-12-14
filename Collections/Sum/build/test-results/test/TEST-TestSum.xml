@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSum" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-01T23:50:42" hostname="JBHATT-ZFG8" time="0.034">
+<testsuite name="TestSum" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-13T17:10:07" hostname="system76-pc" time="0.02">
   <properties/>
-  <testcase name="testGetTotalOrderPrice" classname="TestSum" time="0.033"/>
-  <testcase name="testGetTotalOrderPrice1" classname="TestSum" time="0.001"/>
+  <testcase name="testGetTotalOrderPrice" classname="TestSum" time="0.02"/>
+  <testcase name="testGetTotalOrderPrice1" classname="TestSum" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

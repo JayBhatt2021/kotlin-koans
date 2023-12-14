@@ -1,3 +1,3 @@
-const val month = "(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)"
+val month = "(JAN|FEB|MAR|APR|MAY|JUN|JUL|AUG|SEP|OCT|NOV|DEC)"
 
-fun getPattern(): String = """\d{2} $month \d{4}"""
+fun getPattern(): String = """\d{2}\ $month \d{4}"""
