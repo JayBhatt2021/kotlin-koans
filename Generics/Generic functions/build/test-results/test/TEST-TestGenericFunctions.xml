@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestGenericFunctions" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-16T09:34:58" hostname="system76-pc" time="0.027">
+<testsuite name="TestGenericFunctions" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-12-16T09:39:52" hostname="system76-pc" time="0.025">
   <properties/>
-  <testcase name="testPartitionLettersAndOtherSymbols" classname="TestGenericFunctions" time="0.018"/>
+  <testcase name="testPartitionLettersAndOtherSymbols" classname="TestGenericFunctions" time="0.016"/>
   <testcase name="testPartitionWordsAndLines" classname="TestGenericFunctions" time="0.009"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
